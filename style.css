@@ -1,0 +1,83 @@
+ body{
+   background-image: url("background1.jpeg");
+ }
+ 
+ #navdiv{
+    display: flex;
+    justify-content: end;
+    
+}#navdiv>a{
+    text-decoration: none;
+    margin: 15px;
+    color:white;
+}img{
+    width: 1500px;
+    height: 300px;
+}.img1{
+    width: 300px;
+    height: 300px;
+}
+#maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#div11>h2>p{
+    color: white;
+}
+
+#div0{
+    text-align: center;
+    color: white;
+}
+button{
+    background-image: url("background1.jpeg");
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-color: pink;
+}
+#maindiv1{
+    display: flex;
+    justify-content: space-evenly;
+
+ }
+
+ 
+ #div2{
+    text-align: center;
+    color: white;
+}
+
+.img2{
+    width: 350px;
+    height: 350px;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+}
+.img4{
+    width: 300px;
+    height: 300px;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+}
+#maindiv2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+#maindiv3{
+    display: flex;
+    justify-content: space-evenly;
+}.btn1{
+    width: 150px;
+    height: 40px;
+}
+input{
+    width: 200px;
+    height: 34px;
+}
